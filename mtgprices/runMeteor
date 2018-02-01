@@ -1,0 +1,3 @@
+meteor reset
+sleep 2
+meteor run
